@@ -11,8 +11,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Faisal Maaini\n");
-
+  printf("Faisal Maaini!\n");
+  printf("Computer Science\n");
 
   return 0;
 }
